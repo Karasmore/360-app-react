@@ -1,3 +1,5 @@
+0. zadat verzi 16.19.1 v exe
+
 1.npm install –g react-360-cli
 
 2.react-360 init ReactApp
@@ -11,7 +13,8 @@
 6.npm start
 
 7.http://localhost:8081/index.html
-
+ 
+ 
 
 
 Cesta do blaclistu je /ReactApp/node_modules/metro/src/blacklist.js
