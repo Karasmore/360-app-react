@@ -1,0 +1,19 @@
+1.npm install –g react-360-cli
+
+2.react-360 init ReactApp
+
+3.cd ReactApp
+
+4.npm install --force
+
+5.přepsat blacklist.js
+
+6.npm start
+
+7.http://localhost:8081/index.html
+
+
+
+Cesta do blaclistu je /ReactApp/node_modules/metro/src/blacklist.js
+
+
